@@ -29,4 +29,4 @@ The goal of this project is to create a dynamic dashboard that:
 2.Run the dashboard:
    ```bash
    python wildfire_dashboard_visualization.py
-3.Open your browser and visit
+Open your browser and visit

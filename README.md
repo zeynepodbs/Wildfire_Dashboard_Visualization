@@ -27,5 +27,6 @@ The goal of this project is to create a dynamic dashboard that:
    ```bash
    pip install dash plotly pandas
 2.Run the dashboard:
-  python wildfire_dashboard_visualization.py
+   ```bash
+   python wildfire_dashboard_visualization.py
 3.Open your browser and visit
